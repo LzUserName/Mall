@@ -1,15 +1,14 @@
 <template>
 	<div>
-		detail
+		orderList
 	</div>
 </template>
 
 <script>
 	export default{
-		name:"detail"
+		name:"orderList"
 	}
 </script>
 
 <style>
 </style>
- 
